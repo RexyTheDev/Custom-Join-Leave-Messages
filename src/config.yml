@@ -1,0 +1,5 @@
+firstjoin_message: '&8(&a&l+&8) &f&lWelcome, &a&l{player} &f&lFor Joining Us!'
+
+join_message: '&8(&a&l+&8) &a&l{player}'
+
+quit_message: '&8(&c&l-&8) &c&l{player}'
